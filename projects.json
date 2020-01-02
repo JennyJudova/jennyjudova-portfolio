@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "source": "/invoicer.png",
+    "thumbnail": "/invoicer.png",
+    "website": "https://github.com/JennyJudova/ga-project-04",
+    "caption": "Invoicer",
+    "duration": "Project duration - 7 days",
+    "type": "Solo Project",
+    "description": "This is a CRUD application built with Python and Django on the back end and React on the front. Being the only person on the project, I was responsible for everything from the SQL database on the back end to the Django REST framework, to the front end that included styling."
+  },
+  {
+    "id": "2",
+    "source": "/allotted.png",
+    "thumbnail": "/allotted.png",
+    "website": "https://allotted.herokuapp.com/",
+    "caption": "Allotted",
+    "duration": "Project duration - 9 days",
+    "type": "Group Project - team of 4",
+    "description": "A sustainability-focused platform, that allows people with allotments to share excess produce with others. This is a CRUD application built with a MERN stack. My main responsibility was building out the back end: the models and the RESTful API, as well as creating tests for the users. On the front end, I created the forms and the image upload using Google’s Firebase service."
+  },
+  {
+    "id": "3",
+    "source": "/weather.png",
+    "thumbnail": "/weather.png",
+    "website": "https://three-day-weather.herokuapp.com/",
+    "caption": "Weather and News",
+    "duration": "Project duration - 2 days",
+    "type": "Solo Project",
+    "description": "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+  },
+  {
+    "id": "4",
+    "source": "/weatherandnews.png",
+    "thumbnail": "/weatherandnews.png",
+    "website": "http://weather-and-news.herokuapp.com/",
+    "caption": "Weather and News App",
+    "duration": "Project duration - 2 days",
+    "type": "Group Project - team of 2",
+    "description": "A Start My Day interactive website where the user inputs their location and receives the local weather, local news, as well as a random fact. Users that chose London also received tube updates from TFL.This 2-day project was built in React using 4 external APIs (Open Weather API, News API, TFL and Random Quote API). A few of the APIs relied on the information received from each other which proved an interesting challenge to have the GET requests run in order rather than asynchronous."
+  },
+  {
+    "id": "5",
+    "source": "/tetris.png",
+    "thumbnail": "/tetris.png",
+    "website": "https://jennyjudova.github.io/ga-project-01/",
+    "caption": "Tetris",
+    "duration": "Project duration - 7 days",
+    "type": "Solo Project",
+    "description": "Game of Tetris written in JavaScript and deployed on GitHub. The game has the 7 traditional tetromino shapes that rotate clockwise. The game presented a few challenges, rotation near the borders of the grid was one of them. The second checking and deleting completed lines."
+  }
+]
