@@ -5,6 +5,7 @@ import Layout from '../components/layout'
 // import Lightbox from 'react-images'
 import Gallery from '../components/Gallery'
 import Events from '../components/Events'
+import TwitterQuery from '../components/TwitterWidget'
 
 class HomeIndex extends React.Component {
   render() {
@@ -45,7 +46,9 @@ class HomeIndex extends React.Component {
           <section id="three">
             <Events />
           </section>
-          <section id="four" />
+          <section id="four">
+            <TwitterQuery />
+          </section>
         </div>
       </Layout>
     )
