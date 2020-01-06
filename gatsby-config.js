@@ -34,7 +34,7 @@ module.exports = {
             endpoint: 'statuses/user_timeline',
             params: {
               screen_name: 'jennyjudova',
-              include_rts: false,
+              include_rts: true,
               exclude_replies: true,
               tweet_mode: 'extended',
               count: 5

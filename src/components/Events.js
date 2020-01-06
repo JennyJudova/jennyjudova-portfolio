@@ -31,7 +31,10 @@ export default function Events() {
           <p>{events.description.text}</p>
           <ul className="actions">
             <li>
-              <a href={events.url} className="button">
+              <a
+                href="https://www.eventbrite.co.uk/e/tech-startups-in-the-pub-tickets-64823687394"
+                className="button"
+              >
                 See more details
               </a>
             </li>

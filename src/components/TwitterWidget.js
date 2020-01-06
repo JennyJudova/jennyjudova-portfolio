@@ -23,8 +23,8 @@ const TwitterWidget = ({ data }) => {
           </div>
         </div>
         <div className="tweets">
-          <p>{tweets[1].created_at}</p>
-          <p>{tweets[1].full_text}</p>
+          <p>{tweets[0].created_at}</p>
+          <p>{tweets[0].full_text}</p>
           {/* <p>{tweets[1].entities.media[0].media_url_https}</p>
           <img
             src={tweets[1].entities.media[0].media_url_https}
@@ -103,10 +103,6 @@ const TwitterQuery = props => (
               screen_name
             }
             entities {
-              urls {
-                display_url
-                url
-              }
               media {
                 media_url_https
                 url

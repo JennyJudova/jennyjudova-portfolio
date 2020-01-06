@@ -42,13 +42,6 @@ class HomeIndex extends React.Component {
           <section id="two">
             <Gallery />
           </section>
-
-          <section id="three">
-            <Events />
-          </section>
-          <section id="four">
-            <TwitterQuery />
-          </section>
         </div>
       </Layout>
     )
@@ -65,4 +58,14 @@ export default HomeIndex
   </a>
 </li>
 </ul> */
+}
+
+{
+  /* <section id="three">
+<Events />
+</section>
+
+<section id="four">
+<TwitterQuery />
+</section> */
 }

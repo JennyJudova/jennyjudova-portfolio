@@ -27,7 +27,7 @@
     "caption": "Weather and News",
     "duration": "Project duration - 2 days",
     "type": "Solo Project",
-    "description": "Lorem ipsum dolor sit amet nisl sed nullam feugiat."
+    "description": "A two-day solo project using the Weather API, and React hooks. The app shows the weather in the four UK capitals. And the user can look up the weather in any city using the user input field."
   },
   {
     "id": "4",
